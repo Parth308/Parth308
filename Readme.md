@@ -25,18 +25,6 @@ A **tech enthusiast** passionate about leveraging cutting-edge technologies to b
 	<img title="Minecraft Development" alt="Minecraft Dev" src="https://img.shields.io/badge/-Minecraft_Dev-62B73E?style=for-the-badge&logo=minecraft&logoColor=white" />
 </p>
 
----
-
-### Notable Projects
-
-1. **[SRM DashBoard - AI Dashboard](https://srm-adv.vercel.app/)**  
-   Leveraged **AI** and **web scraping** to analyze attendance, grades, and student data. Offers actionable insights for better academic decision-making.
-
-2. **[SaverMart - E-commerce Solution](https://savermart.in)**  
-   A seamless shopping platform with **AI-driven product recommendations**, personalized deals, and secure payments for a better user experience.
-
-3. **[Radian - Medical AI](https://www.radianimaging.com/)**  
-   An advanced tool for radiologists to interpret MRI scans using **deep learning**. Enhances precision and accelerates diagnosis, improving patient care.
 
 ---
 
