@@ -15,18 +15,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### [SRM Dashboard - AI Dashboard](https://srm-adv.vercel.app/)
-> Leverages AI to provide advanced analysis of attendance, grades, and student data using web scraping. Offers actionable insights, trends, and recommendations for enhanced academic decision-making.
-
-#### [SaverMart - E-commerce Solution](https://savermart.in)
-> A seamless shopping platform with AI-driven product recommendations and personalized deals. Features include intuitive navigation, secure payments, and real-time order tracking.
-
-#### [Radian - Medical AI](https://www.radianimaging.com/)
-> An advanced medical tool that aids radiologists in interpreting MRI scans with precision. Powered by deep learning, it accelerates diagnoses and enhances patient care.
-
----
 
 ### 🔧 Skills & Expertise
 
