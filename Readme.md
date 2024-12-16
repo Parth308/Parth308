@@ -46,7 +46,7 @@
 ### 🔧 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth308&show_icons=true&theme=radical&hide=prs" alt="Parth Mongia's GitHub stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth308&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth308&layout=compact&theme=radical" alt="Top Languages" />
 </p>
