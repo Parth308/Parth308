@@ -1,16 +1,16 @@
-![ViewCount](https://komarev.com/ghpvc/?username=Parth308&style=flat)
+![ViewCount](https://komarev.com/ghpvc/?username=Parth308&style=flat&color=brightgreen)
 
-### Hi there 👋 I'm Parth Mongia,
+### Hi there 👋 I'm Parth Mongia  
 
 I'm a 19-year-old **BTech student** passionate about technology and its ability to solve real-world problems. I love exploring new innovations in the tech landscape and bringing them to life through my skills in **web development**, **AI modeling**, and **e-commerce solutions**.
 
-- 🌱 **Currently learning**: Advanced **AI techniques**, **MERN stack development**, and optimizing scalable systems.
-- 💬 **Let's talk about**: Gaming 🎮, the latest tech trends, and creative problem-solving.
-- ⚡ **Fun Fact**: I find inspiration in challenges—whether in coding or gaming, there's always a strategy to win.
+- 🌱 **Currently learning**: Advanced **AI techniques**, **MERN stack development**, and optimizing scalable systems.  
+- 💬 **Let's talk about**: Gaming 🎮, the latest tech trends, and creative problem-solving.  
+- ⚡ **Fun Fact**: I find inspiration in challenges—whether in coding or gaming, there's always a strategy to win.  
 
 ---
 
-### Skills & Expertise
+### Skills & Expertise  
 
 <p align="center">
 	<img title="Web Development" alt="Web Dev" src="https://img.shields.io/badge/-Web_Dev-blue?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,19 +25,23 @@ I'm a 19-year-old **BTech student** passionate about technology and its ability 
 
 ---
 
-### Connect with Me
+### GitHub Metrics  
+
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Parth308&theme=radical&hide_border=true" alt="GitHub Streak" />
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth308&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### Connect with Me  
 
 <p align="center">
 	<a href="https://parthmongia.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 	<a href="mailto:parthmongia2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a href="https://github.com/Parth308" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 	<a href="https://www.linkedin.com/in/parth-mongia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Parth308/">
-    <img src="/mnt/data/github-metrics.svg" alt="GitHub Metrics" />
-  </a>
 </p>
 
 ---
