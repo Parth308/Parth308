@@ -44,7 +44,6 @@ I focus on building **robust, scalable, and high-performance web applications**.
 
 ### 📊 **GitHub Stats**
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parth308&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Parth308&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
