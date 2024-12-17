@@ -1,52 +1,58 @@
-![ViewCount](https://komarev.com/ghpvc/?username=Parth308&style=flat&color=brightgreen)
 
-<h1 align="center">Hi there 👋 I'm Parth Mongia</h1>
 
-<p align="center">
-I'm a 19-year-old <strong>BTech student</strong> passionate about technology and its ability to solve real-world problems. I love exploring new innovations in the tech landscape and bringing them to life through my skills in <strong>web development</strong>, <strong>AI modeling</strong>, and <strong>e-commerce solutions</strong>.
-</p>
+![👋 Hi, my name is Parth Mongia](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-<p align="center">
-	🌱 <strong>Currently learning</strong>: Advanced <strong>AI techniques</strong>, <strong>MERN stack development</strong>, and optimizing scalable systems.<br>
-	💬 <strong>Let's talk about</strong>: Gaming 🎮, the latest tech trends, and creative problem-solving.<br>
-	⚡ <strong>Fun Fact</strong>: I find inspiration in challenges—whether in coding or gaming, there's always a strategy to win.
+
+# 👋 Hi, My Name is Parth Mongia
+
+![Profile Views](https://komarev.com/ghpvc/?username=Parth308&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## 🚀 **Passionate Fullstack Web Developer**
+I focus on building **robust, scalable, and high-performance web applications**. Proficient in both **front-end** and **back-end technologies**, I bring ideas to life with clean, efficient, and maintainable code. Crafting seamless **user experiences** that are visually appealing and highly functional is what I do best!
+
+### 🔧 **What I Do**
+- Build **dynamic front-end interfaces** using modern frameworks like **React**, **Next.js**, and **CSS frameworks** such as **Tailwind CSS** and **Bootstrap**.
+- Design and develop **scalable back-end systems** with tools like **Node.js**, **Express**, and **SQL/NoSQL databases**.
+- Optimize web performance for **speed and reliability** across all devices.
+- Integrate APIs and third-party services to extend functionality and ensure seamless communication.
+
+---
+
+### **🛠 Skills**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript"> 
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript"> 
+<img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js"> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS"> 
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma">
+<img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP"> 
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express"> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB"> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker"> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes"> 
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS">
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Parth308&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Parth308&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">Skills & Expertise</h2>
-
-<p align="center">
-	<img title="Web Development" alt="Web Dev" src="https://img.shields.io/badge/-Web_Dev-blue?style=for-the-badge&logo=html5&logoColor=white" />
-	<img title="MERN Stack" alt="MERN Stack" src="https://img.shields.io/badge/-MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-	<img title="AI Model Training" alt="AI Model Training" src="https://img.shields.io/badge/-AI_Model_Training-9cf?style=for-the-badge&logo=jupyter&logoColor=white" />
-	<img title="Docker" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-	<img title="TypeScript" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-	<img title="Next.js" alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-	<img title="SQL" alt="SQL" src="https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=mysql&logoColor=white" />
-	<img title="Minecraft Development" alt="Minecraft Dev" src="https://img.shields.io/badge/-Minecraft_Dev-62B73E?style=for-the-badge&logo=minecraft&logoColor=white" />
+## **🌐 Connect with Me**
+<p align="left">
+<a href="mailto:parthmongia2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"></a> 
+<a href="https://github.com/Parth308"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"></a> 
+<a href="https://www.linkedin.com/in/parth308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
 </p>
-
----
-
-<h2 align="center">GitHub Metrics</h2>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=Parth308&theme=radical&hide_border=true" alt="GitHub Streak" />
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth308&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<h2 align="center">Connect with Me</h2>
-
-<p align="center">
-	<a href="mailto:parthmongia2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://github.com/Parth308" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-	<a href="https://www.linkedin.com/in/parth308" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><i>"You miss 100% of the shots you don't take."</i></p>
